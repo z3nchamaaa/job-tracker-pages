@@ -7,7 +7,7 @@ Google Drive連携のプライバシーポリシー、アプリ紹介、利用�
 - 利用条件： https://z3nchamaaa.github.io/job-tracker-pages/terms.html
 - サポート： https://z3nchamaaa.github.io/job-tracker-pages/support.html
 
-`public/` をGitHub Actionsで配信します。ビルド・npm・外部フォント・JavaScript・アクセス解析は不要です。公開メール窓口は未設定であり、準備後にprivacy.htmlとsupport.htmlを更新してください。アプリの取り扱いを変更するときはポリシーと更新日も合わせて見直してください。
+`public/` をGitHub Actionsで配信します。ビルド・npm・外部フォント・JavaScript・アクセス解析は不要です。お問い合わせ先は `contact@antoru.me` です。変更する場合はprivacy.htmlとsupport.htmlを更新してください。アプリの取り扱いを変更するときはポリシーと更新日も合わせて見直してください。
 
 ローカル確認： `python3 -m http.server 4178 --directory public`。GitHubのSettings → PagesのSourceにはGitHub Actionsを選択します。mainへのpushで公開します。
 
