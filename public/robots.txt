@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://z3nchamaaa.github.io/job-tracker-pages/sitemap.xml
+Sitemap: https://job-tracker.antoru.me/sitemap.xml
